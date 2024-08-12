@@ -1,0 +1,6 @@
+@AspNetApiWithMediatR_HostAddress = http://localhost:5277
+
+GET {{AspNetApiWithMediatR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
